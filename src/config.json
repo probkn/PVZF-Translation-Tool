@@ -1,0 +1,11 @@
+{
+    "mod_path": "D:\\joeli\\Downloads\\PvZ.Fusion.3.5.Multi-lang.Release.2.Hotfix.1\\Game Files\\Mods\\PvZ_Fusion_Translator",
+    "colors": {
+        "CYAN": "\u001b[96m",
+        "GREEN": "\u001b[92m",
+        "YELLOW": "\u001b[93m",
+        "RED": "\u001b[91m",
+        "BOLD": "\u001b[1m",
+        "END": "\u001b[0m"
+    }
+}
