@@ -1,1 +1,1 @@
-Fix some security issues
+Fix some critical security issues
