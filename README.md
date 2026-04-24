@@ -27,12 +27,10 @@ This tool provides automated comparison, validation, and GitHub sync features to
    ```bash
    pip install -r requirements.txt
    ```
-3. Place .pyz file in Game Files => Util (make a new folder)
-
-Made with **100% Python**
    or
    ```bash
    py -m pip install -r requirements.txt
    ```
+3. Place .pyz file in Game Files => Util (make a new folder)
 
-Made with 100% 
+Made with **100% Python**
