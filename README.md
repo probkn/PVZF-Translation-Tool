@@ -1,6 +1,6 @@
 # PvZ Fusion Translation Tool
 
-A utility designed to help manage, compare, and synchronize translation files for **Plants vs. Zombies Fusion** mods.  
+A utility designed to help manage and compare,translation files for **Plants vs. Zombies Fusion** mods.  
 This tool provides automated comparison, validation, and GitHub sync features to streamline localization workflows.
 
 ## Features
@@ -31,3 +31,6 @@ This tool provides automated comparison, validation, and GitHub sync features to
    ```bash
    py -m pip install -r requirements.txt
    ```
+3. Place .pyz file in Game Files => Util (make a new folder)
+
+Made with **100% Python**
